@@ -1,4 +1,3 @@
-I like to understand how things work, what are their rules and relations. \
-I love data and automation challenges. \
-I am passionate about programming. \
-I am happy to learn and to gain new skills. 
+Passionate programmer with scientific mindset. \
+I love data, creative problem solving, automation challenges and robust solution design. \
+I am eager to learn, to gain new skills and expand my expertise further beyond.
